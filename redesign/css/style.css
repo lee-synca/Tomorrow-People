@@ -139,6 +139,7 @@ ul { margin: 0; padding: 0; list-style: none; }
   -webkit-background-clip: text; background-clip: text;
   color: transparent;
 }
+.hero-white { color: #fff; }
 
 .head {
   display: flex; align-items: flex-end; justify-content: space-between;
